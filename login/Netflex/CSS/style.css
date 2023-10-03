@@ -1,0 +1,139 @@
+.princ {
+  background-color: black;
+  margin-top: 0%;
+}
+
+div {
+  background-color: hwb(0 4% 96%);
+}
+.video {
+  background-color: black;
+}
+.principal {
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #cd0000;
+  text-align: center;
+  font-size: 200%;
+}
+
+h2 {
+  color: #cd0000;
+  text-align: center;
+}
+
+.mt {
+  color: white;
+}
+
+h3 {
+  color: #cd0000;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.texto {
+  text-align: center;
+}
+
+.divisao {
+  margin-top: 80px;
+  text-align: center;
+}
+a:link {
+  text-decoration: none;
+}
+
+.sobre {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  border-radius: 15px;
+  margin-top: 0px;
+  background-color: rgb(70, 70, 70);
+  border: 0.2rem solid #cd0000;
+}
+
+.card :hover {
+  border-color: #cd0000;
+  transform: scale(1.02);
+  transition: 0.5s ease;
+}
+
+.card1 {
+  width: 300px;
+  height: 400px;
+  border-radius: 15px;
+  margin-top: 0px;
+  background-color: rgb(70, 70, 70);
+  border: 0.2rem solid #cd0000;
+}
+
+.card1 :hover {
+  border-color: #cd0000;
+  transform: scale(1.02);
+  transition: 0.5s ease;
+}
+.card2 {
+  width: 300px;
+  height: 400px;
+  border-radius: 15px;
+  margin-top: 0px;
+  background-color: rgb(70, 70, 70);
+  border: 0.2rem solid #cd0000;
+}
+
+.card2 :hover {
+  border-color: #cd0000;
+  transform: scale(1.02);
+  transition: 0.5s ease;
+}
+.imagem {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  width: 300px;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.botao {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  text-align: center;
+}
+
+a {
+  color: #cd0000;
+}
+
+.image {
+  align-items: center;
+  margin: auto;
+  width: 300px;
+  height: 200px;
+}
+
+.categ{
+  text-align:left;
+}
+
